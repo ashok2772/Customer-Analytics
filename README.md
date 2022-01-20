@@ -1,1 +1,1 @@
-# Customer Analytics Using Kmeans and PCA
+# Customer Analytics Using K-means and PCA
